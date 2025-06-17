@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\06 Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E44E56-714B-4EDD-B051-10EE6DBA5485}|06 Inheritence\\06 Inheritence.csproj|c:\\aadil ansari\\c sharpe\\06 inheritence\\06 inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E44E56-714B-4EDD-B051-10EE6DBA5485}|06 Inheritence\\06 Inheritence.csproj|solutionrelative:06 inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\06 Inheritence\\06 Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "06 Inheritence\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\06 Inheritence\\06 Inheritence\\Program.cs*",
+              "RelativeToolTip": "06 Inheritence\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAQNDMzM9M5wBUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:55:28.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

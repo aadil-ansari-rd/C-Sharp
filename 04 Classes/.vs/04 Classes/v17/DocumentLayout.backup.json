@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\01Basic\\04 Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CECE91-B71D-4FD0-859A-11B3EAC9C376}|04 Classes\\04 Classes.csproj|c:\\aadil ansari\\c sharpe\\01basic\\04 classes\\04 classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CECE91-B71D-4FD0-859A-11B3EAC9C376}|04 Classes\\04 Classes.csproj|solutionrelative:04 classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\01Basic\\04 Classes\\04 Classes\\Program.cs",
+              "RelativeDocumentMoniker": "04 Classes\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\01Basic\\04 Classes\\04 Classes\\Program.cs*",
+              "RelativeToolTip": "04 Classes\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:40:35.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

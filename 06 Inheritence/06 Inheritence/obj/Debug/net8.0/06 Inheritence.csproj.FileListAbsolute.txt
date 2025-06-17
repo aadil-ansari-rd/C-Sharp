@@ -1,0 +1,14 @@
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\bin\Debug\net8.0\06 Inheritence.exe
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\bin\Debug\net8.0\06 Inheritence.deps.json
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\bin\Debug\net8.0\06 Inheritence.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\bin\Debug\net8.0\06 Inheritence.dll
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\bin\Debug\net8.0\06 Inheritence.pdb
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.dll
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\refint\06 Inheritence.dll
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.pdb
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\06 Inheritence.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\06 Inheritence\06 Inheritence\obj\Debug\net8.0\ref\06 Inheritence.dll

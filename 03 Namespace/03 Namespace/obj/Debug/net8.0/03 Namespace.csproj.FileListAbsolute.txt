@@ -1,0 +1,40 @@
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.exe
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.deps.json
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.pdb
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamA.dll
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamB.dll
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamA.pdb
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamB.pdb
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.csproj.AssemblyReference.cache
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Names.97A72709.Up2Date
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\refint\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.pdb
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\01Basic\03 Namespace\03 Namespace\obj\Debug\net8.0\ref\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.exe
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.deps.json
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\03 Namespace.pdb
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamA.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamB.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamA.pdb
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\bin\Debug\net8.0\ProjectA.TeamB.pdb
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.csproj.AssemblyReference.cache
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Names.97A72709.Up2Date
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\refint\03 Namespace.dll
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.pdb
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\03 Namespace.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\03 Namespace\03 Namespace\obj\Debug\net8.0\ref\03 Namespace.dll

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A1D512-62C0-47F7-B0EF-3985CA488FB7}|03 Namespace\\03 Namespace.csproj|c:\\aadil ansari\\c sharpe\\03 namespace\\03 namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A1D512-62C0-47F7-B0EF-3985CA488FB7}|03 Namespace\\03 Namespace.csproj|solutionrelative:03 namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4713693-88E9-4ECA-9F9C-CB674DD35D93}|ProjectA.TeamB\\ProjectA.TeamB.csproj|c:\\aadil ansari\\c sharpe\\03 namespace\\projecta.teamb\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4713693-88E9-4ECA-9F9C-CB674DD35D93}|ProjectA.TeamB\\ProjectA.TeamB.csproj|solutionrelative:projecta.teamb\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A1D512-62C0-47F7-B0EF-3985CA488FB7}|03 Namespace\\03 Namespace.csproj|c:\\aadil ansari\\c sharpe\\03 namespace\\03 namespace\\03 namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6A1D512-62C0-47F7-B0EF-3985CA488FB7}|03 Namespace\\03 Namespace.csproj|solutionrelative:03 namespace\\03 namespace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE25B94-2CAC-4F67-9C79-13B71D836C5D}|ProjectA.TeamA\\ProjectA.TeamA.csproj|c:\\aadil ansari\\c sharpe\\03 namespace\\projecta.teama\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE25B94-2CAC-4F67-9C79-13B71D836C5D}|ProjectA.TeamA\\ProjectA.TeamA.csproj|solutionrelative:projecta.teama\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\ProjectA.TeamB\\ClassA.cs",
+              "RelativeDocumentMoniker": "ProjectA.TeamB\\ClassA.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\ProjectA.TeamB\\ClassA.cs",
+              "RelativeToolTip": "ProjectA.TeamB\\ClassA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:58:08.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03 Namespace.csproj",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\03 Namespace.csproj",
+              "RelativeDocumentMoniker": "03 Namespace\\03 Namespace.csproj",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\03 Namespace.csproj",
+              "RelativeToolTip": "03 Namespace\\03 Namespace.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T12:56:29.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\ProjectA.TeamA\\ClassA.cs",
+              "RelativeDocumentMoniker": "ProjectA.TeamA\\ClassA.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\ProjectA.TeamA\\ClassA.cs",
+              "RelativeToolTip": "ProjectA.TeamA\\ClassA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:54:48.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "03 Namespace\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\Program.cs",
+              "RelativeToolTip": "03 Namespace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:53:49.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
