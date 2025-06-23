@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "12 Explicit Implementation in Interfaces/1.0.0": {
+        "runtime": {
+          "12 Explicit Implementation in Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12 Explicit Implementation in Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
