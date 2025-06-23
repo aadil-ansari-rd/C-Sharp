@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\bin\Debug\net8.0\10 Struct.exe
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\bin\Debug\net8.0\10 Struct.deps.json
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\bin\Debug\net8.0\10 Struct.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\bin\Debug\net8.0\10 Struct.dll
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\bin\Debug\net8.0\10 Struct.pdb
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.sourcelink.json
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.dll
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\refint\10 Struct.dll
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.pdb
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\10 Struct.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\10 Struct\10 Struct\obj\Debug\net8.0\ref\10 Struct.dll

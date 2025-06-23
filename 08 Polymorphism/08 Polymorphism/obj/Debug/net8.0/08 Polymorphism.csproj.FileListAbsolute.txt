@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.sourcelink.json
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\bin\Debug\net8.0\08 Polymorphism.exe
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\bin\Debug\net8.0\08 Polymorphism.deps.json
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\bin\Debug\net8.0\08 Polymorphism.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\bin\Debug\net8.0\08 Polymorphism.dll
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\bin\Debug\net8.0\08 Polymorphism.pdb
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.dll
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\refint\08 Polymorphism.dll
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.pdb
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\08 Polymorphism.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\08 Polymorphism\08 Polymorphism\obj\Debug\net8.0\ref\08 Polymorphism.dll

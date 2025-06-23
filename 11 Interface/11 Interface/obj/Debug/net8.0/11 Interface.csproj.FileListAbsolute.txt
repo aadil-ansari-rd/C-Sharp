@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.sourcelink.json
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\bin\Debug\net8.0\11 Interface.exe
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\bin\Debug\net8.0\11 Interface.deps.json
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\bin\Debug\net8.0\11 Interface.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\bin\Debug\net8.0\11 Interface.dll
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\bin\Debug\net8.0\11 Interface.pdb
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.dll
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\refint\11 Interface.dll
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.pdb
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\11 Interface.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\11 Interface\11 Interface\obj\Debug\net8.0\ref\11 Interface.dll
