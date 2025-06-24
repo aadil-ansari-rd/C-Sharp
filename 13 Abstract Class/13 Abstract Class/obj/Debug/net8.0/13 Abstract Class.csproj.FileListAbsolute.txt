@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.sourcelink.json
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\bin\Debug\net8.0\13 Abstract Class.exe
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\bin\Debug\net8.0\13 Abstract Class.deps.json
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\bin\Debug\net8.0\13 Abstract Class.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\bin\Debug\net8.0\13 Abstract Class.dll
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\bin\Debug\net8.0\13 Abstract Class.pdb
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.dll
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\refint\13 Abstract Class.dll
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.pdb
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\13 Abstract Class.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\13 Abstract Class\13 Abstract Class\obj\Debug\net8.0\ref\13 Abstract Class.dll
