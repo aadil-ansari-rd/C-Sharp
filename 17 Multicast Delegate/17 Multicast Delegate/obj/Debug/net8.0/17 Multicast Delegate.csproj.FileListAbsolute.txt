@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\bin\Debug\net8.0\17 Multicast Delegate.exe
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\bin\Debug\net8.0\17 Multicast Delegate.deps.json
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\bin\Debug\net8.0\17 Multicast Delegate.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\bin\Debug\net8.0\17 Multicast Delegate.dll
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\bin\Debug\net8.0\17 Multicast Delegate.pdb
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.sourcelink.json
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.dll
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\refint\17 Multicast Delegate.dll
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.pdb
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\17 Multicast Delegate.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\17 Multicast Delegate\17 Multicast Delegate\obj\Debug\net8.0\ref\17 Multicast Delegate.dll

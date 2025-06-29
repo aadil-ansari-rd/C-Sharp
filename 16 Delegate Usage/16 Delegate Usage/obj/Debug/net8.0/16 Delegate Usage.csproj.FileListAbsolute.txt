@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\bin\Debug\net8.0\16 Delegate Usage.exe
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\bin\Debug\net8.0\16 Delegate Usage.deps.json
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\bin\Debug\net8.0\16 Delegate Usage.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\bin\Debug\net8.0\16 Delegate Usage.dll
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\bin\Debug\net8.0\16 Delegate Usage.pdb
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.sourcelink.json
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.dll
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\refint\16 Delegate Usage.dll
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.pdb
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\16 Delegate Usage.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\16 Delegate Usage\16 Delegate Usage\obj\Debug\net8.0\ref\16 Delegate Usage.dll

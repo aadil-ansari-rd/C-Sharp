@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.sourcelink.json
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\bin\Debug\net8.0\15 Delegate Intro.exe
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\bin\Debug\net8.0\15 Delegate Intro.deps.json
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\bin\Debug\net8.0\15 Delegate Intro.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\bin\Debug\net8.0\15 Delegate Intro.dll
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\bin\Debug\net8.0\15 Delegate Intro.pdb
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.dll
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\refint\15 Delegate Intro.dll
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.pdb
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\15 Delegate Intro.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\15 Delegate Intro\15 Delegate Intro\obj\Debug\net8.0\ref\15 Delegate Intro.dll

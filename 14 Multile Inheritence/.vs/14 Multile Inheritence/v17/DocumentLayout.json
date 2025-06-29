@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\14 Multile Inheritence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B748557-4DEA-4E8E-8F79-0CC66CED0B7F}|14 Multile Inheritence\\14 Multile Inheritence.csproj|c:\\aadil ansari\\c sharpe\\14 multile inheritence\\14 multile inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B748557-4DEA-4E8E-8F79-0CC66CED0B7F}|14 Multile Inheritence\\14 Multile Inheritence.csproj|solutionrelative:14 multile inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\14 Multile Inheritence\\14 Multile Inheritence\\Program.cs",
+              "RelativeDocumentMoniker": "14 Multile Inheritence\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\14 Multile Inheritence\\14 Multile Inheritence\\Program.cs",
+              "RelativeToolTip": "14 Multile Inheritence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:13:21.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

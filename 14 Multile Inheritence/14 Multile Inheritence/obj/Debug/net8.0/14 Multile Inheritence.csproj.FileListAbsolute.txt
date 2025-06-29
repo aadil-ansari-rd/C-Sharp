@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\bin\Debug\net8.0\14 Multile Inheritence.exe
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\bin\Debug\net8.0\14 Multile Inheritence.deps.json
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\bin\Debug\net8.0\14 Multile Inheritence.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\bin\Debug\net8.0\14 Multile Inheritence.dll
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\bin\Debug\net8.0\14 Multile Inheritence.pdb
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.sourcelink.json
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.dll
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\refint\14 Multile Inheritence.dll
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.pdb
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\14 Multile Inheritence.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\14 Multile Inheritence\14 Multile Inheritence\obj\Debug\net8.0\ref\14 Multile Inheritence.dll
