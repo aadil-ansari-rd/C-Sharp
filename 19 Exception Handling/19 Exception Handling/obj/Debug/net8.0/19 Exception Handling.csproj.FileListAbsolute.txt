@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\bin\Debug\net8.0\19 Exception Handling.exe
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\bin\Debug\net8.0\19 Exception Handling.deps.json
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\bin\Debug\net8.0\19 Exception Handling.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\bin\Debug\net8.0\19 Exception Handling.dll
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\bin\Debug\net8.0\19 Exception Handling.pdb
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.sourcelink.json
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.dll
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\refint\19 Exception Handling.dll
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.pdb
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\19 Exception Handling.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\19 Exception Handling\19 Exception Handling\obj\Debug\net8.0\ref\19 Exception Handling.dll

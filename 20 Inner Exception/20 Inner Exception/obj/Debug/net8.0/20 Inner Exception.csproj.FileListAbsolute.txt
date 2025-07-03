@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\bin\Debug\net8.0\20 Inner Exception.exe
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\bin\Debug\net8.0\20 Inner Exception.deps.json
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\bin\Debug\net8.0\20 Inner Exception.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\bin\Debug\net8.0\20 Inner Exception.dll
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\bin\Debug\net8.0\20 Inner Exception.pdb
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.sourcelink.json
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.dll
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\refint\20 Inner Exception.dll
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.pdb
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\20 Inner Exception.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\20 Inner Exception\20 Inner Exception\obj\Debug\net8.0\ref\20 Inner Exception.dll

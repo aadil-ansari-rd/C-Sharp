@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\bin\Debug\net8.0\18 StreamReader And StramWriter.exe
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\bin\Debug\net8.0\18 StreamReader And StramWriter.deps.json
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\bin\Debug\net8.0\18 StreamReader And StramWriter.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\bin\Debug\net8.0\18 StreamReader And StramWriter.dll
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\bin\Debug\net8.0\18 StreamReader And StramWriter.pdb
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.sourcelink.json
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.dll
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\refint\18 StreamReader And StramWriter.dll
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.pdb
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\18 StreamReader And StramWriter.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\18 StreamReader And StramWriter\18 StreamReader And StramWriter\obj\Debug\net8.0\ref\18 StreamReader And StramWriter.dll

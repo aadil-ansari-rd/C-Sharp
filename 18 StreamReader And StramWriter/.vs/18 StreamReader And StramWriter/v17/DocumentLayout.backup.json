@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\18 StreamReader And StramWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577F7A20-5396-44B5-9D2E-B787B4E2C81D}|18 StreamReader And StramWriter\\18 StreamReader And StramWriter.csproj|c:\\aadil ansari\\c sharpe\\18 streamreader and stramwriter\\18 streamreader and stramwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577F7A20-5396-44B5-9D2E-B787B4E2C81D}|18 StreamReader And StramWriter\\18 StreamReader And StramWriter.csproj|solutionrelative:18 streamreader and stramwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\18 StreamReader And StramWriter\\18 StreamReader And StramWriter\\Program.cs",
+              "RelativeDocumentMoniker": "18 StreamReader And StramWriter\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\18 StreamReader And StramWriter\\18 StreamReader And StramWriter\\Program.cs*",
+              "RelativeToolTip": "18 StreamReader And StramWriter\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:10:06.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
