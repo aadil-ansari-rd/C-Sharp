@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\bin\Debug\net8.0\21 Custom Exception Class.exe
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\bin\Debug\net8.0\21 Custom Exception Class.deps.json
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\bin\Debug\net8.0\21 Custom Exception Class.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\bin\Debug\net8.0\21 Custom Exception Class.dll
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\bin\Debug\net8.0\21 Custom Exception Class.pdb
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.sourcelink.json
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.dll
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\refint\21 Custom Exception Class.dll
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.pdb
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\21 Custom Exception Class.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\21 Custom Exception Class\21 Custom Exception Class\obj\Debug\net8.0\ref\21 Custom Exception Class.dll
