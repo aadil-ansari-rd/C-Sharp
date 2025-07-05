@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.sourcelink.json
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\bin\Debug\net8.0\22 Exception Handling Abuse.exe
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\bin\Debug\net8.0\22 Exception Handling Abuse.deps.json
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\bin\Debug\net8.0\22 Exception Handling Abuse.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\bin\Debug\net8.0\22 Exception Handling Abuse.dll
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\bin\Debug\net8.0\22 Exception Handling Abuse.pdb
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.dll
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\refint\22 Exception Handling Abuse.dll
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.pdb
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\22 Exception Handling Abuse.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\22 Exception Handling Abuse\22 Exception Handling Abuse\obj\Debug\net8.0\ref\22 Exception Handling Abuse.dll
