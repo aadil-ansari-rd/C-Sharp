@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\bin\Debug\net8.0\23 Need of Enums.exe
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\bin\Debug\net8.0\23 Need of Enums.deps.json
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\bin\Debug\net8.0\23 Need of Enums.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\bin\Debug\net8.0\23 Need of Enums.dll
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\bin\Debug\net8.0\23 Need of Enums.pdb
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.sourcelink.json
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.dll
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\refint\23 Need of Enums.dll
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.pdb
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\23 Need of Enums.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\23 Need of Enums\23 Need of Enums\obj\Debug\net8.0\ref\23 Need of Enums.dll
