@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\bin\Debug\net8.0\24 Enum ( Underlying Types ).exe
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\bin\Debug\net8.0\24 Enum ( Underlying Types ).deps.json
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\bin\Debug\net8.0\24 Enum ( Underlying Types ).runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\bin\Debug\net8.0\24 Enum ( Underlying Types ).dll
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\bin\Debug\net8.0\24 Enum ( Underlying Types ).pdb
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).sourcelink.json
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).dll
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\refint\24 Enum ( Underlying Types ).dll
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).pdb
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\24 Enum ( Underlying Types ).genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\24 Enum ( Underlying Types )\24 Enum ( Underlying Types )\obj\Debug\net8.0\ref\24 Enum ( Underlying Types ).dll
