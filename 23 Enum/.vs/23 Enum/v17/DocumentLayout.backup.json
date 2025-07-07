@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\23 Enum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD44988-A7A8-4DC6-B4CC-E8F11D0F2112}|23 Enum\\23 Enum.csproj|c:\\aadil ansari\\c sharpe\\23 enum\\23 enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD44988-A7A8-4DC6-B4CC-E8F11D0F2112}|23 Enum\\23 Enum.csproj|solutionrelative:23 enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\23 Enum\\23 Enum\\Program.cs",
+              "RelativeDocumentMoniker": "23 Enum\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\23 Enum\\23 Enum\\Program.cs*",
+              "RelativeToolTip": "23 Enum\\Program.cs*",
+              "ViewState": "AgIAANIAAAAAAAAAAAA+wNsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T03:47:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

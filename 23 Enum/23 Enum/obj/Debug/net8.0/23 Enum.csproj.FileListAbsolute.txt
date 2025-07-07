@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\bin\Debug\net8.0\23 Enum.exe
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\bin\Debug\net8.0\23 Enum.deps.json
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\bin\Debug\net8.0\23 Enum.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\bin\Debug\net8.0\23 Enum.dll
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\bin\Debug\net8.0\23 Enum.pdb
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.sourcelink.json
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.dll
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\refint\23 Enum.dll
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.pdb
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\23 Enum.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\23 Enum\23 Enum\obj\Debug\net8.0\ref\23 Enum.dll
