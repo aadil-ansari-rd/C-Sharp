@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\bin\Debug\net8.0\25 Access Modifiers A.exe
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\bin\Debug\net8.0\25 Access Modifiers A.deps.json
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\bin\Debug\net8.0\25 Access Modifiers A.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\bin\Debug\net8.0\25 Access Modifiers A.dll
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\bin\Debug\net8.0\25 Access Modifiers A.pdb
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.sourcelink.json
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.dll
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\refint\25 Access Modifiers A.dll
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.pdb
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\25 Access Modifiers A.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\25 Access Modifiers A\25 Access Modifiers A\obj\Debug\net8.0\ref\25 Access Modifiers A.dll
