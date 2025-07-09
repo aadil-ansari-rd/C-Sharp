@@ -43,7 +43,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\samir\\.nuget\\packages\\": {},
+    "C:\\Users\\SAMIR\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -52,14 +52,14 @@
       "projectUniqueName": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\03 Namespace.csproj",
       "projectName": "03 Namespace",
       "projectPath": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\03 Namespace.csproj",
-      "packagesPath": "C:\\Users\\samir\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\SAMIR\\.nuget\\packages\\",
       "outputPath": "C:\\Aadil Ansari\\C Sharpe\\03 Namespace\\03 Namespace\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\samir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SAMIR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -114,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

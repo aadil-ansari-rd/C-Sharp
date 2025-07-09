@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F25446-C2FE-491A-92B7-E638D2053D11}|AssemblyTwo\\AssemblyTwo.csproj|c:\\aadil ansari\\c sharpe\\26 access modifiers b\\assemblytwo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F25446-C2FE-491A-92B7-E638D2053D11}|AssemblyTwo\\AssemblyTwo.csproj|solutionrelative:assemblytwo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E765CEFE-138E-4A03-B3C0-C7E1B85F5601}|AssemblyOne\\AssemblyOne.csproj|c:\\aadil ansari\\c sharpe\\26 access modifiers b\\assemblyone\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E765CEFE-138E-4A03-B3C0-C7E1B85F5601}|AssemblyOne\\AssemblyOne.csproj|solutionrelative:assemblyone\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707FCB96-FA59-491F-8854-834FA68EEB30}|26 Access Modifiers B\\26 Access Modifiers B.csproj|c:\\aadil ansari\\c sharpe\\26 access modifiers b\\26 access modifiers b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707FCB96-FA59-491F-8854-834FA68EEB30}|26 Access Modifiers B\\26 Access Modifiers B.csproj|solutionrelative:26 access modifiers b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\AssemblyOne\\Class1.cs",
+              "RelativeDocumentMoniker": "AssemblyOne\\Class1.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\AssemblyOne\\Class1.cs",
+              "RelativeToolTip": "AssemblyOne\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T06:21:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\AssemblyTwo\\Class1.cs",
+              "RelativeDocumentMoniker": "AssemblyTwo\\Class1.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\AssemblyTwo\\Class1.cs",
+              "RelativeToolTip": "AssemblyTwo\\Class1.cs",
+              "ViewState": "AgIAABYAAACAMjMzMzMLwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:05:45.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\26 Access Modifiers B\\Program.cs",
+              "RelativeDocumentMoniker": "26 Access Modifiers B\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\26 Access Modifiers B\\26 Access Modifiers B\\Program.cs",
+              "RelativeToolTip": "26 Access Modifiers B\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:39:14.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

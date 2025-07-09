@@ -1,0 +1,5 @@
+C:\Aadil Ansari\C Sharpe\26 Access Modifiers B\26 Access Modifiers B\obj\Debug\net8.0\26 Access Modifiers B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\26 Access Modifiers B\26 Access Modifiers B\obj\Debug\net8.0\26 Access Modifiers B.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\26 Access Modifiers B\26 Access Modifiers B\obj\Debug\net8.0\26 Access Modifiers B.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\26 Access Modifiers B\26 Access Modifiers B\obj\Debug\net8.0\26 Access Modifiers B.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\26 Access Modifiers B\26 Access Modifiers B\obj\Debug\net8.0\26 Access Modifiers B.sourcelink.json
