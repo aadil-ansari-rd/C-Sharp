@@ -1,0 +1,5 @@
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0\28 Uses Of Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0\28 Uses Of Reflection.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0\28 Uses Of Reflection.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0\28 Uses Of Reflection.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0\28 Uses Of Reflection.sourcelink.json

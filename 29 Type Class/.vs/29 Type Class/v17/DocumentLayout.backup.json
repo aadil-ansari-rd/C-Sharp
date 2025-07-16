@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\29 Type Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6104D106-77E4-4300-A3E6-6CF184DA352E}|29 Type Class\\29 Type Class.csproj|c:\\aadil ansari\\c sharpe\\29 type class\\29 type class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6104D106-77E4-4300-A3E6-6CF184DA352E}|29 Type Class\\29 Type Class.csproj|solutionrelative:29 type class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6104D106-77E4-4300-A3E6-6CF184DA352E}|29 Type Class\\29 Type Class.csproj|c:\\aadil ansari\\c sharpe\\29 type class\\29 type class\\29 type class.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6104D106-77E4-4300-A3E6-6CF184DA352E}|29 Type Class\\29 Type Class.csproj|solutionrelative:29 type class\\29 type class.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "29 Type Class.csproj",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\29 Type Class\\29 Type Class\\29 Type Class.csproj",
+              "RelativeDocumentMoniker": "29 Type Class\\29 Type Class.csproj",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\29 Type Class\\29 Type Class\\29 Type Class.csproj",
+              "RelativeToolTip": "29 Type Class\\29 Type Class.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T05:33:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\29 Type Class\\29 Type Class\\Program.cs",
+              "RelativeDocumentMoniker": "29 Type Class\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\29 Type Class\\29 Type Class\\Program.cs",
+              "RelativeToolTip": "29 Type Class\\Program.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:32:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

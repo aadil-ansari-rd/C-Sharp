@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\28 Uses Of Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7550DDFD-60D0-4129-8F89-B2F1C529519E}|28 Uses Of Reflection\\28 Uses Of Reflection.csproj|c:\\aadil ansari\\c sharpe\\28 uses of reflection\\28 uses of reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7550DDFD-60D0-4129-8F89-B2F1C529519E}|28 Uses Of Reflection\\28 Uses Of Reflection.csproj|solutionrelative:28 uses of reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7550DDFD-60D0-4129-8F89-B2F1C529519E}|28 Uses Of Reflection\\28 Uses Of Reflection.csproj|c:\\aadil ansari\\c sharpe\\28 uses of reflection\\28 uses of reflection\\28 uses of reflection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7550DDFD-60D0-4129-8F89-B2F1C529519E}|28 Uses Of Reflection\\28 Uses Of Reflection.csproj|solutionrelative:28 uses of reflection\\28 uses of reflection.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "28 Uses Of Reflection",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\28 Uses Of Reflection\\28 Uses Of Reflection\\28 Uses Of Reflection.csproj",
+              "RelativeDocumentMoniker": "28 Uses Of Reflection\\28 Uses Of Reflection.csproj",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\28 Uses Of Reflection\\28 Uses Of Reflection\\28 Uses Of Reflection.csproj",
+              "RelativeToolTip": "28 Uses Of Reflection\\28 Uses Of Reflection.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-16T05:07:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\28 Uses Of Reflection\\28 Uses Of Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "28 Uses Of Reflection\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\28 Uses Of Reflection\\28 Uses Of Reflection\\Program.cs",
+              "RelativeToolTip": "28 Uses Of Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:03:52.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

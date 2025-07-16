@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\bin\Debug\net8.0\27 Attribute ( Obsolete ).exe
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\bin\Debug\net8.0\27 Attribute ( Obsolete ).deps.json
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\bin\Debug\net8.0\27 Attribute ( Obsolete ).runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\bin\Debug\net8.0\27 Attribute ( Obsolete ).dll
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\bin\Debug\net8.0\27 Attribute ( Obsolete ).pdb
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).sourcelink.json
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).dll
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\refint\27 Attribute ( Obsolete ).dll
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).pdb
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\27 Attribute ( Obsolete ).genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\27 Attribute ( Obsolete )\27 Attribute ( Obsolete )\obj\Debug\net8.0\ref\27 Attribute ( Obsolete ).dll

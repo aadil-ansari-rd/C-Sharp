@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.sourcelink.json
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\bin\Debug\net8.0-windows\28 Uses Of Reflection.exe
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\bin\Debug\net8.0-windows\28 Uses Of Reflection.deps.json
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\bin\Debug\net8.0-windows\28 Uses Of Reflection.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\bin\Debug\net8.0-windows\28 Uses Of Reflection.dll
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\bin\Debug\net8.0-windows\28 Uses Of Reflection.pdb
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.dll
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\refint\28 Uses Of Reflection.dll
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.pdb
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\28 Uses Of Reflection.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\28 Uses Of Reflection\28 Uses Of Reflection\obj\Debug\net8.0-windows\ref\28 Uses Of Reflection.dll

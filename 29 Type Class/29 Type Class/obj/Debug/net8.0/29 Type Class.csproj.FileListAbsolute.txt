@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\bin\Debug\net8.0\29 Type Class.exe
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\bin\Debug\net8.0\29 Type Class.deps.json
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\bin\Debug\net8.0\29 Type Class.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\bin\Debug\net8.0\29 Type Class.dll
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\bin\Debug\net8.0\29 Type Class.pdb
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.sourcelink.json
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.dll
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\refint\29 Type Class.dll
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.pdb
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\29 Type Class.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\29 Type Class\29 Type Class\obj\Debug\net8.0\ref\29 Type Class.dll
