@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\bin\Debug\net8.0\30 Early Binding.exe
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\bin\Debug\net8.0\30 Early Binding.deps.json
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\bin\Debug\net8.0\30 Early Binding.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\bin\Debug\net8.0\30 Early Binding.dll
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\bin\Debug\net8.0\30 Early Binding.pdb
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.sourcelink.json
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.dll
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\refint\30 Early Binding.dll
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.pdb
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\30 Early Binding.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\30 Early Binding\30 Early Binding\obj\Debug\net8.0\ref\30 Early Binding.dll
