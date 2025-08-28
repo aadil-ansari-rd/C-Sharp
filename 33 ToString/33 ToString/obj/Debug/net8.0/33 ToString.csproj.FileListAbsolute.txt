@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\bin\Debug\net8.0\33 ToString.exe
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\bin\Debug\net8.0\33 ToString.deps.json
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\bin\Debug\net8.0\33 ToString.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\bin\Debug\net8.0\33 ToString.dll
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\bin\Debug\net8.0\33 ToString.pdb
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.sourcelink.json
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.dll
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\refint\33 ToString.dll
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.pdb
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\33 ToString.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\33 ToString\33 ToString\obj\Debug\net8.0\ref\33 ToString.dll
