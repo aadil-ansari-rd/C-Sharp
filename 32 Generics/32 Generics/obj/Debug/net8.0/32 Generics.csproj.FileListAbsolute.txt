@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\bin\Debug\net8.0\32 Generics.exe
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\bin\Debug\net8.0\32 Generics.deps.json
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\bin\Debug\net8.0\32 Generics.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\bin\Debug\net8.0\32 Generics.dll
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\bin\Debug\net8.0\32 Generics.pdb
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.sourcelink.json
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.dll
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\refint\32 Generics.dll
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.pdb
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\32 Generics.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\32 Generics\32 Generics\obj\Debug\net8.0\ref\32 Generics.dll
