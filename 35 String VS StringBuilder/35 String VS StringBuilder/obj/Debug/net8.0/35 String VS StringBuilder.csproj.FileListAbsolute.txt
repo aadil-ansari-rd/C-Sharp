@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\bin\Debug\net8.0\35 String VS StringBuilder.exe
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\bin\Debug\net8.0\35 String VS StringBuilder.deps.json
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\bin\Debug\net8.0\35 String VS StringBuilder.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\bin\Debug\net8.0\35 String VS StringBuilder.dll
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\bin\Debug\net8.0\35 String VS StringBuilder.pdb
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.sourcelink.json
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.dll
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\refint\35 String VS StringBuilder.dll
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.pdb
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\35 String VS StringBuilder.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\35 String VS StringBuilder\35 String VS StringBuilder\obj\Debug\net8.0\ref\35 String VS StringBuilder.dll

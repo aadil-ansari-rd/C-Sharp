@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\bin\Debug\net8.0\34 Convert-ToString VS ToString.exe
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\bin\Debug\net8.0\34 Convert-ToString VS ToString.deps.json
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\bin\Debug\net8.0\34 Convert-ToString VS ToString.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\bin\Debug\net8.0\34 Convert-ToString VS ToString.dll
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\bin\Debug\net8.0\34 Convert-ToString VS ToString.pdb
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.sourcelink.json
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.dll
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\refint\34 Convert-ToString VS ToString.dll
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.pdb
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\34 Convert-ToString VS ToString.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\34 Convert-ToString VS ToString\34 Convert-ToString VS ToString\obj\Debug\net8.0\ref\34 Convert-ToString VS ToString.dll

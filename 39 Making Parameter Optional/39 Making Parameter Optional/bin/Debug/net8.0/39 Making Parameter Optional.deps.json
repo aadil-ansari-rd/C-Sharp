@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "39 Making Parameter Optional/1.0.0": {
+        "runtime": {
+          "39 Making Parameter Optional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "39 Making Parameter Optional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

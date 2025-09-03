@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\bin\Debug\net8.0\37 Indexer.exe
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\bin\Debug\net8.0\37 Indexer.deps.json
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\bin\Debug\net8.0\37 Indexer.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\bin\Debug\net8.0\37 Indexer.dll
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\bin\Debug\net8.0\37 Indexer.pdb
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.sourcelink.json
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.dll
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\refint\37 Indexer.dll
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.pdb
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\37 Indexer.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\37 Indexer\37 Indexer\obj\Debug\net8.0\ref\37 Indexer.dll

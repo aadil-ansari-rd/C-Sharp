@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\bin\Debug\net8.0\38 Overloading Indexer.exe
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\bin\Debug\net8.0\38 Overloading Indexer.deps.json
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\bin\Debug\net8.0\38 Overloading Indexer.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\bin\Debug\net8.0\38 Overloading Indexer.dll
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\bin\Debug\net8.0\38 Overloading Indexer.pdb
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.sourcelink.json
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.dll
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\refint\38 Overloading Indexer.dll
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.pdb
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\38 Overloading Indexer.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\38 Overloading Indexer\38 Overloading Indexer\obj\Debug\net8.0\ref\38 Overloading Indexer.dll

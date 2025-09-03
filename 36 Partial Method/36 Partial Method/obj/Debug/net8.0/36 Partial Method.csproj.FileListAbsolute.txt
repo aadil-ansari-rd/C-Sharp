@@ -1,0 +1,15 @@
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\bin\Debug\net8.0\36 Partial Method.exe
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\bin\Debug\net8.0\36 Partial Method.deps.json
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\bin\Debug\net8.0\36 Partial Method.runtimeconfig.json
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\bin\Debug\net8.0\36 Partial Method.dll
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\bin\Debug\net8.0\36 Partial Method.pdb
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.AssemblyInfoInputs.cache
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.AssemblyInfo.cs
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.csproj.CoreCompileInputs.cache
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.sourcelink.json
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.dll
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\refint\36 Partial Method.dll
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.pdb
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\36 Partial Method.genruntimeconfig.cache
+C:\Aadil Ansari\C Sharpe\36 Partial Method\36 Partial Method\obj\Debug\net8.0\ref\36 Partial Method.dll

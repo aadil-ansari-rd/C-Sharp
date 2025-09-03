@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aadil Ansari\\C Sharpe\\35 String VS StringBuilder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D57154F-0E9D-49AB-9194-20E1A56AC981}|35 String VS StringBuilder\\35 String VS StringBuilder.csproj|c:\\aadil ansari\\c sharpe\\35 string vs stringbuilder\\35 string vs stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D57154F-0E9D-49AB-9194-20E1A56AC981}|35 String VS StringBuilder\\35 String VS StringBuilder.csproj|solutionrelative:35 string vs stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aadil Ansari\\C Sharpe\\35 String VS StringBuilder\\35 String VS StringBuilder\\Program.cs",
+              "RelativeDocumentMoniker": "35 String VS StringBuilder\\Program.cs",
+              "ToolTip": "C:\\Aadil Ansari\\C Sharpe\\35 String VS StringBuilder\\35 String VS StringBuilder\\Program.cs",
+              "RelativeToolTip": "35 String VS StringBuilder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:05:02.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
